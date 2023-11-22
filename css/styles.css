@@ -1,0 +1,28 @@
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border: 10px solid rebeccapurple;
+  padding: 50px;
+}
+
+#contadorVisitas {
+  background-color: red;
+  color: white;
+  border-radius: 10px;
+  font-size: 25px;
+  margin-top: 20px;
+}
+
+
+#btnReestablecer {
+  margin-top: 20px;
+  background-color: green;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 18px;
+  padding: 8px 20px;
+  color: white;
+  border: 0;
+}
